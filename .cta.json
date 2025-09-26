@@ -10,11 +10,9 @@
   "chosenAddOns": [
     "eslint",
     "form",
-    "sentry",
     "store",
     "t3env",
     "table",
-    "tanstack-query",
-    "start"
+    "tanstack-query"
   ]
 }
